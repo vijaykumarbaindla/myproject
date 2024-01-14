@@ -40,7 +40,7 @@ Every application is developed by development team will have some common softwar
 
 Lets download the dependencies.
 
-``
+```
 pip3.6 install -r requirements.txt
 ```
 
